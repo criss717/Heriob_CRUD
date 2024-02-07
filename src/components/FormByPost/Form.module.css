@@ -1,0 +1,22 @@
+.formContainer{
+    background-color: currentcolor;
+    padding: 2.5rem 2.5rem 1rem 2.5rem;
+    border-radius: 1rem;
+    position: relative;
+    width: 500px;
+}
+.btnX{
+    position: absolute;
+    left: 94%;
+    top: 4%;
+    font-size: large !important;
+    background-color:black !important;
+    color: white !important;
+    padding:0 5px 0 5px !important;
+    font-weight: bolder !important;
+}
+
+.btnX:hover{
+    background-color: rgb(81, 69, 124) !important;    
+    color: red !important;
+}

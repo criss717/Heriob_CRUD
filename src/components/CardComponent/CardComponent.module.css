@@ -1,0 +1,37 @@
+.card{
+    position: relative;
+}
+
+.btnDelete{
+    position: absolute;
+    left: 87%;
+    top: 0%;    
+    margin-top: 4px;    
+    padding: 0 !important;
+    width: 2rem;
+}
+
+.btnDelete:hover, .btnEdit:hover{
+    color: red;
+    background-color: black;
+}
+
+.btnDelete i, .btnEdit i{    
+    font-size: larger; 
+    color: blueviolet;  
+}
+
+.btnEdit{
+    position: absolute;
+    left: 5%;
+    top: 0%;    
+    margin-top: 4px;    
+    padding: 0 !important;
+    width: 2rem;
+}
+
+.containerEdit{
+    position: absolute;
+    left: 0%;
+    top: 100%;    
+}

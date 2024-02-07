@@ -1,0 +1,26 @@
+.containerFloors{
+    position: absolute;
+    top: 100%;
+    left: 4%;
+    width: 92%;    
+}
+
+.scrollfloors{
+    overflow-y: scroll;
+    max-height: 406px;
+}
+
+.titleH2 {
+    position: relative;
+    display: inline-block;
+    background-color: #8d8b8b78; /* Color de fondo gris desvanecido */
+    color: black; /* Color del texto negro */
+    padding: 15px 20px; /* Espaciado interno alrededor del texto */
+    border: 2px solid #ccc; /* Borde del elemento */
+    border-top-left-radius: 15px; /* Esquinas redondeadas en la esquina superior izquierda */
+    border-bottom-right-radius: 15px; /* Esquinas redondeadas en la esquina inferior derecha */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Sombreado */
+    margin: 20px; /* Margen exterior */    
+}
+  
+
